@@ -26,7 +26,7 @@
 - Video backgrounds for enhanced user experience
 
 # 🎬 Review
-[Github.pptx](https://github.com/user-attachments/files/20428381/Github.pptx)
+![Netflix gif](https://github.com/user-attachments/assets/c8fe6e74-0fa4-4dc0-a251-3b5fdf233de1)
 
 # 📦 Installation
 bash
